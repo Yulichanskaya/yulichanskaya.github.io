@@ -49,6 +49,9 @@ header {
     font-family: "Playfair Display", serif;
     text-align: center;
 }
+.list {
+    text-align: start;
+}
 
 .line {
     border-color: white;
