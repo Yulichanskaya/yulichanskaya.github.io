@@ -47,10 +47,10 @@ header {
 .title,
 .list {
     font-family: "Playfair Display", serif;
-    text-align: center;
 }
-.list {
-    text-align: start;
+
+.title {
+    text-align: center;
 }
 
 .line {
